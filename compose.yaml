@@ -1,0 +1,16 @@
+services:
+    api:
+      build: .
+      ports:
+        - "3200:3200"
+      environment:
+        MONGO_URL: "mongodb://mongo:27017/Students"
+      depends_on: 
+        - db
+    db:
+       image: mongo:8 
+       volumes:
+         - dbdata:/data/db
+
+volumes:
+  dbdata:       

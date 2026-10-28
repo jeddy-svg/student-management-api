@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstname": "Hamza",
+    "lastname": "Muhammad",
+    "age": 20,
+    "rollNo": "ECE25312"
+  },
+  {
+    "id": 2,
+    "firstname": "Abdul",
+    "lastname": "Rahman",
+    "age": 21,
+    "rollNo": "ECE25313"
+  },
+  {
+    "id": 3,
+    "firstname": "Muhammad",
+    "lastname": "Abdullah",
+    "age": 20,
+    "rollNo": "ECE25314"
+  },
+  {
+    "id": 4,
+    "firstname": "Josh",
+    "lastname": "Susa",
+    "age": 18,
+    "rollNo": "EJDJ10203"
+  }
+]
